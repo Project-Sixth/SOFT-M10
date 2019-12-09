@@ -1,0 +1,1 @@
+python C:\Users\Infernium\Desktop\scr\main.py %*
